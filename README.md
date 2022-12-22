@@ -1,7 +1,7 @@
 
 ### What is this repository for? ###
 
-* #Quick summary#: First,we parsed through the instructions and encoded them using the convention followed in Hennessy and Patterson's book on 
+* Quick summary: First,we parsed through the instructions and encoded them using the convention followed in Hennessy and Patterson's book on 
 Computer Architecture.For this we created our own assembler in C++ and in this assembler we also wrote code to detct any dependencies
 and consequently the data and control hazards were identified in the assembler itself. While encoding please note that we encoded the 
 offset along with branch and jump instructions instead of names like "loop" or "label1".
