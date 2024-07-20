@@ -15,6 +15,13 @@ We also tested individual modules against testbench.
   <img src="pipeline.png" width="700px" />
 </div>
 
+## Installation
+
+Clone this repository:
+```
+git clone git@github.com:Uviveknarayan/pipelined-processor-MIPS-Cpp.git
+```
+
 ## Steps to run
 ```
 1. Install the repository
