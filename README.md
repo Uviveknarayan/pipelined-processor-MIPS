@@ -12,8 +12,9 @@ classes for each of Decode,Execute,Data Memory,Write Back Unit. We solved both d
 encountered we stopped the pipeline for 3 cycles. We also tried to implement in verilog and created individual modules for the units.
 We also tested individual modules against testbench.
 <div align="center">
-  <img src="pipeline.png" width="500px" />
+  <img src="pipeline.png" width="700px" />
 </div>
+
 ## Steps to run
 ```
 1. Install the repository
